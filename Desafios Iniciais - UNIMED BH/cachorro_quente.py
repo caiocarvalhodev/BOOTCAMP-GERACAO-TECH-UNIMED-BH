@@ -14,6 +14,7 @@
 # | 34 1000            | 0.03                
 # | 35 1000            | 0.04               
 
+# Resolução abaixo:
 
 valores = input().split() 
 cachorro_quente = int(valores[0])
