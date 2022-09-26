@@ -9,7 +9,7 @@
 # 10 85          70.833
 # 22 67          122.833
 
-# Resolução  
+# Resolução abaixo:
   
 valores = input().split() 
 
